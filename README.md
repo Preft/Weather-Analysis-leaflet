@@ -13,3 +13,6 @@ Ensure you have the modules used in the ipynb files installed in your environmen
 ### Vacation Visual Example:
 ![](images/NorthernLatVsTemp.png)
 
+![](images/SouthernLatVsWindSp.png)
+
+![](images/NorthernLatVsHum.png)
