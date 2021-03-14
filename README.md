@@ -8,7 +8,7 @@ Ensure you have the modules used in the ipynb files installed in your environmen
 ![](images/CompanyAnalysisExample.png)
 
 ### Vacation Visual Example:
-![](VacationPy/Images/MapHotel.png)
+![](VacationPy/Images/MapHotel.PNG)
 
 ### Vacation Visual Example:
 ![](WeatherPy/Images/NorthernLatVsTemp.png)
