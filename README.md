@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Weather-Analysis-leaflet
 Using google heat maps and matplotlib plots to analyze data gathered from openweathermap api for a given day.
 
 ### Instructions
