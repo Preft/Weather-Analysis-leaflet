@@ -4,5 +4,12 @@ Using google heat maps and matplotlib plots to analyze data gathered from openwe
 ### Instructions
 Ensure you have the modules used in the ipynb files installed in your environment. Then in your bash terminal, type "python WeatherPy.ipynb" or "python VacationPy.ipynb".
 
-### Visual
+## Visuals:
 ![](images/CompanyAnalysisExample.png)
+
+### Vacation Visual Example:
+![](images/MapHotel.png)
+
+### Vacation Visual Example:
+![](images/NorthernLatVsTemp.png)
+
